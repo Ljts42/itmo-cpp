@@ -1,0 +1,21 @@
+[submodule "b-plus-tree"]
+	path = b-plus-tree
+	url = git@github.com:Ljts42/b-plus-tree.git
+[submodule "8puzzle"]
+	path = 8puzzle
+	url = git@github.com:Ljts42/8puzzle.git
+[submodule "n-body"]
+	path = n-body
+	url = git@github.com:Ljts42/n-body.git
+[submodule "sort-k-t"]
+	path = sort-k-t
+	url = git@github.com:Ljts42/sort-k-t.git
+[submodule "lfru-buddy"]
+	path = lfru-buddy
+	url = git@github.com:Ljts42/lfru-buddy.git
+[submodule "boe-order-execution"]
+	path = boe-order-execution
+	url = git@github.com:Ljts42/boe-order-execution.git
+[submodule "trees-avl"]
+	path = trees-avl
+	url = git@github.com:Ljts42/trees-avl.git
